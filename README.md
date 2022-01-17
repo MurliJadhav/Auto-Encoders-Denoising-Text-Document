@@ -1,4 +1,4 @@
-#What is Denoising Autoencoder?
+# What is Denoising Autoencoder?
 
 Denoising Autoencoders are an enxtension of simple autoencoders.
 Denoising autoencoders can be used for the purposes of image denoising.
